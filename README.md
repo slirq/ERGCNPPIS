@@ -14,7 +14,7 @@ To run ERGCNPPIS, you need the following dependencies:
 - **NumPy** 1.26.4
 - **Pandas** 1.1.0
 - **PyTorch** 1.12.1 (GPU required)
-- **Scikit-learn** 0.23.2
+- **Scikit-learn** 1.4.2
 
 ## Dataset
 
